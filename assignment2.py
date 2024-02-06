@@ -34,7 +34,6 @@ def processData(file_content):
 
         name = component[1]
 
-
         id = int(component[0])
 
         try:
